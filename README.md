@@ -1,2 +1,2 @@
 # Home-Monitor
-simple ㄛmage processing with openCV 
+simple image processing with openCV 
